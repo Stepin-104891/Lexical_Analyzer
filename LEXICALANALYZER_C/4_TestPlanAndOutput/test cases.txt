@@ -1,0 +1,38 @@
+TEST CASES
+
+Sl. No	INPUT 	
+
+
+1.	int a = 9.7 + 2;	
+
+EXPECTED RESULTS:
+‘int’ is a keyword
+‘a’ is a valid identifier
+‘=’ is an operator
+‘9.7’ is a real number
+‘+’ is an operator
+‘2’ is an integer
+‘;’ is a separator
+
+2.	float b = { 1c + d } ;	
+
+EXPECTED RESULTS:
+‘float’ is a keyword
+‘b’ is a valid identifier
+‘=’ is an operator
+‘{’ is a separator
+‘1c’ is not a valid identifier
+‘+’ is an operator
+‘d’ is a valid identifier
+‘}’ is a separator
+‘;’ is a separator
+
+3.       Sizeof ( char );
+
+EXPECTED RESULTS:
+‘sizeof’ is a keyword
+‘(‘ is a separator
+‘char’ is a keyword
+‘)’ is a separator
+‘;’ is a separator
+
